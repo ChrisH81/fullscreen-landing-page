@@ -44,6 +44,11 @@ body {
   margin-top: 20px;
 }
 
+#showcase .button:hover {
+  background: #fff;
+  color: #333
+}
+
 @media (max-width: 680px) {
   #showcase h1 {
     margin-top: -200px;
